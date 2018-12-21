@@ -11,5 +11,7 @@ html {
 /* Write your solution here */
 
 @media(max-width:406px) and (min-width:1170px){
-  
+  #monkey{
+    background-color:blue;
+  }
 }
